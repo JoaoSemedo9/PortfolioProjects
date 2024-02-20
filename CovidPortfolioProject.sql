@@ -140,6 +140,3 @@ Join CovidVaccinations vac
  On dea.location=vac.location
  And dea.date =vac.date
  Where dea.continent is not null
-
-
- Select 
